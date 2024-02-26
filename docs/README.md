@@ -1,1 +1,0 @@
-# alpha-phi-omega-ez.github

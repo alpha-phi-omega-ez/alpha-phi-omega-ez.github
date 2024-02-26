@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1707851688|1-KB7lpySFVp
-saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	TS0148e245	018d9e98b6919807d8b6cb1a2274c1455b43540a0b22c0a4e76cb5334e3031081f302e41a4e9cb984a53493a0f57e39aa17fcd2e4acf8c5af12c442608d0eb8b43c05e0cd0
-saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	TS01f570e9	018d9e98b62bd88aecfd862a97359b93fba1071bac22c0a4e76cb5334e3031081f302e41a43aa6d242973e3d4786ec639e6aaf439d052ee2f8fded8a69271b1c4621ccd5fb
-saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42_g
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e93131f30da3023ed7e7ec0bdee13b4b189ec31d29137e301391b026c60920dce2e0cd743d730012c9ef55d7652ccf7877827a
-
