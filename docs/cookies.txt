@@ -2,6 +2,6 @@
 # This file format is compatible with Netscape cookies
 saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1708978030|_kNkf0_QbB8G
 saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42_g
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e931319e6a84939e7b258eca8686d7effe3ae7e0d0b55275df0dcf352971aa582130add314e3987f17fb911d16b68753758720
+saraannrochford.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit_etag#dc#desc=42_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e93131788b2c28da795c6707a2e9ff578230998a460140f1f89771ce8a9c31c954af52ace9de1ab8961a4294987cb5260fe4a4
 
